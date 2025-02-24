@@ -1,0 +1,15 @@
+.neuro-box {
+  padding: 15px;
+  border-radius: 10px;
+  background: linear-gradient(45deg, #673ab7, #512da8);
+  color: white;
+  text-align: center;
+}
+button {
+  background: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
